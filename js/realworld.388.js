@@ -2,7 +2,6 @@
 //An extract of address points from the LINZ bulk extract: http://www.linz.govt.nz/survey-titles/landonline-data/landonline-bde
 //Should be this data set: http://data.linz.govt.nz/#/layer/779-nz-street-address-electoral/
 var addressPoints = [
-[62.26772851286662, 74.47735834097325, "ХМАО, г. Когалым, 2019, ул. Прибалтийская - ул. Мира"],
 [-37.8210819833, 175.2213903167, "3"],
 [-37.8210881833, 175.2215004833, "3A"],
 [-37.8211946833, 175.2213655333, "1"],
